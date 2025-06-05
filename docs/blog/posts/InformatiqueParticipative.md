@@ -5,7 +5,7 @@ title: "Numérique responsable : des idées, des jeux, des voix"
 description: "Présents à la Place du Numérique, nous avons sensibilisé au reconditionnement informatique à travers le jeu 'Qui suis-je ?' et co-animé un stand PhoneImpact avec la Grange Numérique autour de l'impact environnemental des smartphones."
 slug: informatique-participative
 ---
-Présents à la Place du Numérique, nous avons sensibilisé au reconditionnement informatique à travers le jeu 'Qui suis-je ?' et co-animé un stand PhoneImpact avec la Grange Numérique autour de l'impact environnemental des smartphones.
+Présents à la Place du Numérique, nous avons sensibilisé au **reconditionnement informatique** à travers le jeu '**Qui suis-je ?**' et co-animé un stand **PhoneImpact** avec la _Grange Numérique_ autour de **l'impact environnemental des smartphones**.
 <!-- more -->
 
 Une fois de plus nous étions présent à la Place du Numérique pour aborder le reconditionnement d'ordinateurs sous le format d'un jeu "qui suis je ?"
