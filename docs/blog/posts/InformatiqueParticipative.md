@@ -1,10 +1,13 @@
 ---
 date: 2025-06-05
-authors: [Association pour l’Informatique participative]
+authors: [AssociationInformatiqueParticipative]
 title: "Numérique responsable : des idées, des jeux, des voix"
-description: "Présents à la **Place du Numérique**, nous avons sensibilisé au **reconditionnement informatique** à travers le jeu 'Qui suis-je ?' et co-animé un stand PhoneImpact avec la **Grange Numérique** autour de l'impact environnemental des smartphones".
+description: "Inria Learning Lab a participé à la première édition de Ménage de printemps organisé par les musées scientifiques de la Métropole du Grand Nancy et dédié au cycle de vie des supports éléctroniques que nous utilisons tous les jours et parfois plus que de raison !"
 slug: informatique-participative
 ---
+Inria Learning Lab a participé à la première édition de Ménage de printemps organisé par les musées scientifiques de la Métropole du Grand Nancy et dédié au cycle de vie des supports éléctroniques que nous utilisons tous les jours et parfois plus que de raison!
+<!-- more -->
+
 Association pour l’Informatique participative, Médiation, reconditionnement et promotion des logiciels libre sont les 3 activités de l'association.
 Une fois de plus nous étions présent à la Place du Numérique pour aborder le reconditionnement d'ordinateurs sous le format d'un jeu "qui suis je ?"
 
