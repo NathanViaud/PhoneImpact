@@ -8,7 +8,6 @@ slug: informatique-participative
 Présents à la Place du Numérique, nous avons sensibilisé au reconditionnement informatique à travers le jeu 'Qui suis-je ?' et co-animé un stand PhoneImpact avec la Grange Numérique autour de l'impact environnemental des smartphones.
 <!-- more -->
 
-Association pour l’Informatique participative, Médiation, reconditionnement et promotion des logiciels libre sont les 3 activités de l'association.
 Une fois de plus nous étions présent à la Place du Numérique pour aborder le reconditionnement d'ordinateurs sous le format d'un jeu "qui suis je ?"
 
 Nous avons partagé notre stand avec la Grange Numérique (Ligue de l'enseignement - FOL37 ) l'occasion pour eux d'initier le jeu sur PhoneImpact pour sensibiliser sur la fabrication du téléphone portable et l'extraction des matières premières et de leur empreintes environnementales.
