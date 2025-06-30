@@ -46,3 +46,16 @@ nav[data-md-level="1"] > .md-nav__list {
     background: var(--md-default-bg-color);
     color: var(--md-typeset-color);
 }
+
+.card-button {
+    color: white !important;
+    border: none;
+    border-radius: 4px;
+    padding: 0.5rem 1rem;
+    width: fit-content;
+    linear-gradient(to right, var(--md-primary-fg-color), #cd84f0);
+}
+
+.card-button:hover {
+    opacity: 0.8;
+}

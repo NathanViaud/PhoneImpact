@@ -5,10 +5,19 @@ hide:
 
 # Imprimer ou acheter le jeu
 
-Choisissez entre :
+**Choisissez entre :**
 
-- télécharger gratuitement puis imprimer, plastifier éventuellement, et découper le matériel.
-- acheter une boîte de jeux prête à l’emploi avec tout le matériel nécessaire pour une expérience complète.
+<div style="display:flex;flex-direction:column; gap: .5rem;">
+    Télécharger gratuitement puis imprimer, plastifier éventuellement, et découper le matériel.
+    <a href="/serious-game/smartphone/PrintAndPlay/pnp/cards.zip" class="card-button">
+        Version gratuite et imprimable
+    </a>
+
+    Acheter une boîte de jeux prête à l’emploi avec tout le matériel nécessaire pour une expérience complète.
+    <a href="https://boutique.inria.ecoessentials.fr/" class="card-button">
+        Acheter une boîte
+    </a>
+</div>
 
 ## I - Version gratuite et imprimable (Print&Play)
 
@@ -20,7 +29,7 @@ Vous trouverez dans cette page les liens de téléchargement pour imprimer votre
 ### Le plateau Smartphone
 <a href="docCommuns/Plateau.pdf">"<img alt="Plateau.jpeg" src="../img/Plateau.jpeg" width="100" /></a> **X 5**
 
-[Lien vers le plateau Smartphone à imprimer en 5 exemplaires, recto](docCommuns/Plateau.pdf) 
+[Lien vers le plateau Smartphone à imprimer en 5 exemplaires, recto](docCommuns/Plateau.pdf)
 
 ### Les cartes Ressources
 
