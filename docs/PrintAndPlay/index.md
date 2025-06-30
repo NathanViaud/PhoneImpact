@@ -9,7 +9,7 @@ hide:
 
 <div style="display:flex;flex-direction:column; gap: .5rem;">
     Télécharger gratuitement puis imprimer, plastifier éventuellement, et découper le matériel.
-    <a href="/serious-game/smartphone/PrintAndPlay/pnp/cards.zip" class="card-button">
+    <a href="pnp/cards.zip" class="card-button">
         Version gratuite et imprimable
     </a>
 
