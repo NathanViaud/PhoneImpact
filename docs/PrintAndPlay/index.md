@@ -7,18 +7,20 @@ hide:
 
 **Choisissez entre :**
 
-<div style="display:flex;flex-direction:column;gap:.5rem;">
-    Télécharger gratuitement puis imprimer, plastifier éventuellement, et découper le matériel.
+Télécharger gratuitement puis imprimer, plastifier éventuellement, et découper le matériel.
 
-    <a href="pnp/cards.zip" class="card-button">
-        Version gratuite et imprimable (.zip)
-    </a>
+<a href="pnp/cards.zip" class="card-button">
+    Version gratuite et imprimable (.zip)
+</a>
 
-    Acheter une boîte de jeux prête à l’emploi avec tout le matériel nécessaire pour une expérience complète.
-    <a href="https://boutique.inria.ecoessentials.fr/" class="card-button">
-        Acheter une boîte
-    </a>
-</div>
+!!! Warning
+    Pour le plateau Smartphone, veillez à en imprimer un exemplaire par joueur.
+
+Acheter une boîte de jeux prête à l’emploi avec tout le matériel nécessaire pour une expérience complète.
+
+<a href="https://boutique.inria.ecoessentials.fr/" class="card-button">
+    Acheter une boîte
+</a>
 
 ## I - Version gratuite et imprimable (Print&Play)
 
