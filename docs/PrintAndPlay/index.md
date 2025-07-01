@@ -7,10 +7,10 @@ hide:
 
 **Choisissez entre :**
 
-<div style="display:flex;flex-direction:column; gap: .5rem;">
+<div style="display:flex;flex-direction:column;gap:.5rem;">
     Télécharger gratuitement puis imprimer, plastifier éventuellement, et découper le matériel.
     <a href="pnp/cards.zip" class="card-button">
-        Version gratuite et imprimable
+        Version gratuite et imprimable (.zip)
     </a>
 
     Acheter une boîte de jeux prête à l’emploi avec tout le matériel nécessaire pour une expérience complète.
@@ -27,7 +27,7 @@ Vous trouverez dans cette page les liens de téléchargement pour imprimer votre
     Préparez-vous ! L’assemblage d’une boîte de jeu en version Print & Play prend au minimum 1 heure (sans plastification).
 
 ### Le plateau Smartphone
-<a href="docCommuns/Plateau.pdf">"<img alt="Plateau.jpeg" src="../img/Plateau.jpeg" width="100" /></a> **X 5**
+<a href="docCommuns/Plateau.pdf"><img alt="Plateau.jpeg" src="../img/Plateau.jpeg" width="100" /></a> **X 5**
 
 [Lien vers le plateau Smartphone à imprimer en 5 exemplaires, recto](docCommuns/Plateau.pdf)
 
