@@ -21,6 +21,12 @@ task :zip, [:lang] do |t, args|
     "polluplus#{lang_suffix}.pdf"
   ]
 
+  other_files = [
+    "AideDeJeu#{lang_suffix}.pdf",
+    "Plateau#{lang_suffix}.pdf",
+    "LivretDeRegles#{lang_suffix}.pdf"
+  ]
+
   Zip::File.open(zip_filename, Zip::File::CREATE) do |zipfile|
     pdf_files.each do |pdf_file|
       pdf_path = "_output/pnp/#{pdf_file}"
@@ -29,6 +35,16 @@ task :zip, [:lang] do |t, args|
         puts "Added #{pdf_file} to zip"
       else
         puts "Warning: #{pdf_file} not found, skipping"
+      end
+    end
+
+    other_files.each do |other_file|
+      pdf_path = "docs/PrintAndPlay/docCommuns/#{other_file}"
+      if File.exist?(pdf_path)
+        zipfile.add(other_file, pdf_path)
+        puts "Added #{other_file} to zip"
+      else
+        puts "Warning: #{other_file} not found, skipping"
       end
     end
   end
