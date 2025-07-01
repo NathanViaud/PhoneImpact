@@ -9,6 +9,10 @@ hide:
 
 <div style="display:flex;flex-direction:column;gap:.5rem;">
     Télécharger gratuitement puis imprimer, plastifier éventuellement, et découper le matériel.
+
+!!! Warning
+    Pour le plateau Smartphone, veillez à en imprimer un exemplaire par joueur.
+
     <a href="pnp/cards.zip" class="card-button">
         Version gratuite et imprimable (.zip)
     </a>
